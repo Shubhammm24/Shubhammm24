@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%92%BB+Building+scalable+systems+that+make+an+impact;%F0%9F%A7%A0+From+real-time+WebSockets+to+ML+pipelines;%F0%9F%8F%86+Software+Engineer+%7C+IIIT+Bhopal+%2727)](https://github.com/Shubhammm24)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%F0%9F%92%BB+Building+scalable+systems+that+make+an+impact;%F0%9F%A7%A0+From+real-time+WebSockets+to+ML+pipelines;%F0%9F%8F%86+Software+Engineer+%7C+IIIT+Bhopal+%2727)](https://github.com/Shubhammm24)
 
   <br/>
 
@@ -81,21 +81,21 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 <div align="center">
 
 <a href="https://github.com/Shubhammm24/G_One_Sync_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhammm24&repo=G_One_Sync_AI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shubhammm24&repo=G_One_Sync_AI&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
 </a>
 &nbsp;
 <a href="https://github.com/Shubhammm24/TriPi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhammm24&repo=TriPi&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shubhammm24&repo=TriPi&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Shubhammm24/GoTo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhammm24&repo=GoTo&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shubhammm24&repo=GoTo&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
 </a>
 &nbsp;
 <a href="https://github.com/Shubhammm24/ResTro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhammm24&repo=ResTro&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Shubhammm24&repo=ResTro&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" width="47%"/>
 </a>
 
 </div>
@@ -171,9 +171,9 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhammm24&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Shubhammm24&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhammm24&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shubhammm24&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -194,7 +194,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhammm24&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=Shubhammm24&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
