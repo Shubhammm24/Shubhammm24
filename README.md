@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Shubham%20Ranjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descSize=16&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Shubham%20Ranjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Systems%20Engineer&descSize=16&descAlignY=55&descColor=8b949e"/>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%92%BB+Building+scalable+systems+that+make+an+impact;%F0%9F%A7%A0+From+real-time+WebSockets+to+ML+pipelines;%F0%9F%8F%86+SIH+2024+Winner+%7C+IIIT+Bhopal+%2727)](https://github.com/Shubhammm24)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%92%BB+Building+scalable+systems+that+make+an+impact;%F0%9F%A7%A0+From+real-time+WebSockets+to+ML+pipelines;%F0%9F%8F%86+Software+Engineer+%7C+IIIT+Bhopal+%2727)](https://github.com/Shubhammm24)
 
   <br/>
 
@@ -62,7 +62,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 ### Backend Developer — Yaseer Innovative Software Pvt. Ltd
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 - ⚡ Engineered scalable backend handling **10,000+ records**, with **Redis caching** reducing DB queries by **40%** & API latency by **200ms**
 - 🏗️ Architected modular service-layer ecosystem accelerating feature deployment by **30%**
