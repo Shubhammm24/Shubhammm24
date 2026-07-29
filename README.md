@@ -18,6 +18,9 @@
   <a href="mailto:shubham0003nov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://portfolio-si-fi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 
   <br/>
 
@@ -265,6 +268,10 @@ Operating Systems • Software Engineering
 &nbsp;
 <a href="https://github.com/Shubhammm24">
   <img src="https://img.shields.io/badge/-Shubhammm24-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://portfolio-si-fi.vercel.app/">
+  <img src="https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
